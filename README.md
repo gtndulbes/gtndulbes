@@ -83,5 +83,5 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ---
 
 ### ⚡ *“Engineering innovation begins with curiosity — and grows through dedication and impact.”*
-<meta name="google-site-verification" content="xxxxxx">
+<meta name="google-site-verification" content="RM6rEsDzxa9EWg7YSI1-aXiH-u5dfrwTfeN18KOD-Gs" />
 
