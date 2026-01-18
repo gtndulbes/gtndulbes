@@ -27,6 +27,8 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-2B2B2B?style=for-the-badge&logo=wifi&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-Industrial-blue?style=for-the-badge&logo=siemens&logoColor=white)
+
 
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
