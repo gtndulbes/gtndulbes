@@ -51,7 +51,9 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ### ☁️ Database & Cloud
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+![ThingSpeak](https://img.shields.io/badge/ThingSpeak-MATLAB-EE6F2D?style=for-the-badge&logo=mathworks&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Blynk](https://img.shields.io/badge/Blynk-IoT-23C48E?style=for-the-badge&logo=blynk&logoColor=white)
 ---
 
 ## ⚙️ Featured Projects
