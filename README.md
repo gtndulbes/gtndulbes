@@ -45,7 +45,7 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1769FF?style=for-the-badge&logo=easyeda&logoColor=white)
-![Autodesk](https://img.shields.io/badge/Autodesk-Software-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white)
 
 
 ### ☁️ Database & Cloud
@@ -56,14 +56,21 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ---
 
 ## ⚙️ Featured Projects
-- ☀️ **Off-Grid Solar Micro Power Plant (2000W)**  
-  Designed and simulated a stand-alone solar power system using **Homer Energy** for an Islamic boarding school, optimizing load management and energy efficiency.
 
-- 🌿 **Automatic Coconut Sap Extractor (ESP32-Based)**  
-  Developed a modular IoT device for automatic sap collection and monitoring using **sensors**, **motor control**, and **ESP32** integration.
+- 🌿 **Automatic Coconut Sap Extractor (ESP32-Based IoT Device)**  
+  Developed a **modular and portable automatic sap extraction system** using **ESP32**, integrated with **pH, temperature, and concentration sensors**, DC motors, and servo actuators. The system supports field deployment and real-time monitoring.
 
-- 🧾 **Santri Data Management Website (Supabase Integration)**  
-  Built a responsive data system for student registration and payment records with **Supabase** backend and **HTML/CSS/JS** frontend.
+- 🌐 **Personal Web Portfolio (Responsive Static Website)**  
+  Designed and developed a **responsive personal portfolio website** using **HTML, CSS, and JavaScript** to showcase projects, skills, and professional background with a clean and modern UI.
+
+- 📷 **Computer Vision-Based Smart Monitoring System**  
+  Developed a **computer vision system** using **ESP32-CAM / OpenCV** for object detection and motion-based event triggering, integrated with IoT notifications for real-time monitoring.
+
+- 🤖 **Robotic Arm Control System (Microcontroller-Based)**  
+  Designed and implemented a **robotic arm control system** using **servo motors**, microcontroller control, and kinematic logic for pick-and-place and basic automation tasks.
+
+- 📡 **Smart Security System Using ESP32-CAM & Telegram Bot**  
+  Built an **IoT-based security system** using **ESP32-CAM**, PIR motion sensor, relay, buzzer, and Telegram Bot integration for real-time alerts and image capture.
 
 ---
 
