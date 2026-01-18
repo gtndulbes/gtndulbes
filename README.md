@@ -27,7 +27,8 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-2B2B2B?style=for-the-badge&logo=wifi&logoColor=white)
-![PLC](https://img.shields.io/badge/PLC-Industrial-blue?style=for-the-badge&logo=siemens&logoColor=white)
+![Industrial](https://img.shields.io/badge/Industrial-Automation-555555?style=for-the-badge&logo=probot&logoColor=white)
+
 
 
 ### 🌐 Web Development
@@ -44,8 +45,8 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1769FF?style=for-the-badge&logo=easyeda&logoColor=white)
-![Eagle](https://img.shields.io/badge/Eagle-Autodesk-EF1F1F?style=for-the-badge&logo=autodesk&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-Autodesk-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)
+![Autodesk](https://img.shields.io/badge/Autodesk-Software-000000?style=for-the-badge&logo=autodesk&logoColor=white)
+
 
 ### ☁️ Database & Cloud
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
