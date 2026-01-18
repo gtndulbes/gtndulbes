@@ -43,6 +43,9 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 ![Fritzing](https://img.shields.io/badge/Fritzing-E34F26?style=for-the-badge&logo=fritzing&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/EasyEDA-1769FF?style=for-the-badge&logo=easyeda&logoColor=white)
+![Eagle](https://img.shields.io/badge/Eagle-Autodesk-EF1F1F?style=for-the-badge&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-Autodesk-E34F26?style=for-the-badge&logo=autodesk&logoColor=white)
 
 ### ☁️ Database & Cloud
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
