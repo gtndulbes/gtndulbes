@@ -96,9 +96,8 @@ I focus on creating **smart automation and monitoring systems** that integrate h
 
 ## 📊 GitHub Statistics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muhammadgatanrifani)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadgatanrifani)
+![Gatan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadgatanrifani&show_icons=true&theme=default) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadgatanrifani&layout=compact&theme=default)
 
 ---
 
